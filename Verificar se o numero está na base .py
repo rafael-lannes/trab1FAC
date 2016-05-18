@@ -1,5 +1,5 @@
 #Inicio do trabalho , função que verifica se o numero digitado está na base correta , ainda pode ter erros , mas foi o melhor que
-pude fazer até agora.
+#pude fazer até agora.
 
 def verifica_base(numero,base):
     if base=='16':
