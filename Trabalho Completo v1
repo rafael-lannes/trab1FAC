@@ -244,3 +244,4 @@ if verifica_base(numeroinicial,baseinicial)==True:
     print("O número", numeroinicial,"na base", baseinicial, "equivale a", numerofinal, "na base", basefinal,".")
 else:
     print("Número na base errada!")
+input()
